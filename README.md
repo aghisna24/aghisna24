@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aghisna Riziq Gyfari</h1>
 <h3 align="center">I am a passionate Full-Stack Developer with experience in building dynamic and user-friendly web applications. Proficient in modern technologies such as React.js, Inertia.js, Laravel, Tailwind CSS, and SQL, I specialize in creating seamless, responsive interfaces and robust backend solutions. With a strong focus on performance optimization, database management, and clean code architecture, I thrive in collaborative environments, bringing creative ideas to life through efficient and scalable development. Always eager to learn and adapt to new technologies, I am committed to delivering high-quality solutions that meet both user needs and business goals.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aghisna24&label=Profile%20views&color=0e75b6&style=flat" alt="aghisna24" /> </p>
 
 - 🔭 I’m currently working on [Gun2sport](http://gun2sport.com/)
 
